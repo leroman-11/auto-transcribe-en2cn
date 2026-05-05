@@ -113,3 +113,4 @@
 - 输出语言与原文一致（中文会议输出中文）
 - Markdown 格式规范，层级清晰
 - 两个文件独立完整，各自可脱离对方阅读
+- **输出路径**: `/Users/johnc/Documents/Obsidian/CXZ/01-Inbox/Upload/`

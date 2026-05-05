@@ -49,7 +49,7 @@ Convert a transcript TXT into two Markdown files following the rules in [meeting
 
 ### Output
 
-Two files written to the same directory as the source transcript:
+Two files written to `/Users/johnc/Documents/Obsidian/CXZ/01-Inbox/Upload/`:
 
 | File | Naming | Purpose |
 |------|--------|---------|
