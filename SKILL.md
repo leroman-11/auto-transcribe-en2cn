@@ -1,6 +1,6 @@
 ---
-name: turboscribe
-description: Automated TurboScribe transcription via browser automation. Upload audio files, configure whale-model + speaker diarization, wait for completion, and download transcripts. Use when John asks to transcribe audio/video with TurboScribe, convert speech to text, or mentions "转写", "transcribe", "turboscribe". Also handles converting transcript TXT into structured meeting minutes (纪要) and clean verbatim (逐字稿) Markdown files.
+name: auto-transcribe-en2cn
+description: Automated TurboScribe audio transcription with whale-model + speaker diarization, plus conversion of transcript TXT into structured Chinese meeting minutes (纪要) and clean verbatim (逐字稿) Markdown files. Use when transcribing audio/video, converting speech to text, or producing structured meeting notes from transcripts.
 ---
 
 # TurboScribe
@@ -49,7 +49,7 @@ Convert a transcript TXT into two Markdown files following the rules in [meeting
 
 ### Output
 
-Two files written to `/Users/johnc/Documents/Obsidian/CXZ/01-Inbox/Upload/`:
+Two files written to the user-specified output directory:
 
 | File | Naming | Purpose |
 |------|--------|---------|
